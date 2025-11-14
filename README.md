@@ -1,0 +1,3 @@
+# InsulligenceWeb
+Infrastruttura WEB (front-end e back-end) per interagire con il modello AI di Insulligence.
+README più accurato in fase di sviluppo...
